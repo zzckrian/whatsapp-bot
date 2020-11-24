@@ -1,4 +1,10 @@
 # Whatsfuck Bot
+<p align="center">
+<a href="#"><img title="Whatsfuck-Bot" src="https://img.shields.io/badge/Whatsfuck%20Bot-v1-green?style=flat-square&logo=whatsapp"></a>
+</p>
+<p align="center">
+<a href="https://github.com/algorithm1927"><img title="Author" src="https://img.shields.io/badge/Algorithm1927-Author-blue?style=for-the-badge&logo=visual-studio-code"></a>
+</p>
 ## Clone this project
 
 ```bash
