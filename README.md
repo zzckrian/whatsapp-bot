@@ -1,4 +1,4 @@
-# Whatsfuck Bot Version 1.0 (Under Development)
+# Whatsfuck Bot
 ## Clone this project
 
 ```bash
